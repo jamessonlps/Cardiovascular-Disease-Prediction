@@ -37,9 +37,9 @@ ____
 - Análise das variáveis qualitativas;
 - Implementação de recursos gráficos na Análise Exploratória;
 
-#### Jamesson Leandro
+#### Jamesson Leandro Paiva Santos
 
 - Implementação dos modelos de Árvore de Decisão e Regressão Logística.
-- Análise das variáveis qualitativas;
+- Análise das variáveis quantitativas;
 
 As demais tarefas no desenvolvimento do projeto foram feitas de forma mista, com participação de ambos.
